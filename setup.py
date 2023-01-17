@@ -10,6 +10,5 @@ setup(name='testpipeline',
             'bandit==1.7.4',
             'safety==2.2.0',
             'pyraider==1.0.20',
-            'six'
             'GitPython==3.1.27'
       ])
